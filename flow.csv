@@ -1,37 +1,37 @@
 tagName,parentTag,priority,category
 Broad Shoulders,INVERTED TRIANGLE,,BODY TYPE
-Narrow Hips,INVERTED TRIANGLE,,BODY TYPE
-Straight Or Slightly Defined Waist ,INVERTED TRIANGLE,,BODY TYPE
-,,,BODY TYPE
-Narrow Shoulders,PEAR SHAPED,,BODY TYPE
-Smaller Bust,PEAR SHAPED,,BODY TYPE
-Heavier Thighs,PEAR SHAPED,,BODY TYPE
-Well-defined Waist,PEAR SHAPED,,BODY TYPE
-,,,BODY TYPE
-Broad Shoulders,APPLE SHAPED,,BODY TYPE
-Less-defined Waist,APPLE SHAPED,,BODY TYPE
-Narrow Hips,APPLE SHAPED,,BODY TYPE
-,,,BODY TYPE
-Proportionately Balanced Shoulders & Hips,HOUR GLASS,,BODY TYPE
-Well-defined Narrow Waist ,HOUR GLASS,,BODY TYPE
-Full Bust,HOUR GLASS,,BODY TYPE
-Rounded Bottom,HOUR GLASS,,BODY TYPE
-,,,BODY TYPE
-Undefined Waist,RECTANGLE,,BODY TYPE
-Straight Hips,RECTANGLE,,BODY TYPE
-Well Aligned Shoulders & Hips,RECTANGLE,,BODY TYPE
-Small To Average Bust,RECTANGLE,,BODY TYPE
-,,,BODY TYPE
-Narrow Hips ,OVAL,,BODY TYPE
-Wide Waist,OVAL,,BODY TYPE
-Slender Legs,OVAL,,BODY TYPE
-Large Bust,OVAL,,BODY TYPE
-,,,BODY TYPE
-Broad Hips,DIAMOND,,BODY TYPE
-Undefined & Wide Waist,DIAMOND,,BODY TYPE
-Heavy Thighs,DIAMOND,,BODY TYPE
-Slender Arms,DIAMOND,,BODY TYPE
-Slender Calves,DIAMOND,,BODY TYPE
+Narrow Hips,,,
+Straight Or Slightly Defined Waist ,,,
+,,,
+Narrow Shoulders,PEAR SHAPED,,
+Smaller Bust,,,
+Heavier Thighs,,,
+Well-defined Waist,,,
+,,,
+Broad Shoulders,APPLE SHAPED,,
+Less-defined Waist,,,
+Narrow Hips,,,
+,,,
+Proportionately Balanced Shoulders & Hips,HOUR GLASS,,
+Well-defined Narrow Waist ,,,
+Full Bust,,,
+Rounded Bottom,,,
+,,,
+Undefined Waist,RECTANGLE,,
+Straight Hips,,,
+Well Aligned Shoulders & Hips,,,
+Small To Average Bust,,,
+,,,
+Narrow Hips ,OVAL,,
+Wide Waist,,,
+Slender Legs,,,
+Large Bust,,,
+,,,
+Broad Hips,DIAMOND,,
+Undefined & Wide Waist,,,
+Heavy Thighs,,,
+Slender Arms,,,
+Slender Calves,,,
 ,,,
 ,,,
 ,,,
@@ -40,143 +40,143 @@ Slender Calves,DIAMOND,,BODY TYPE
 ,,,
 ,,,
 vacation,,,OCCASION
-dayout / casual,,,OCCASION
-college,,,OCCASION
-nightout,,,OCCASION
-office,,,OCCASION
-festive season,,,OCCASION
-gym,,,OCCASION
-winter,,,OCCASION
-summer,,,OCCASION
-spring,,,OCCASION
+dayout / casual,,,
+college,,,
+nightout,,,
+office,,,
+festive season,,,
+gym,,,
+winter,,,
+summer,,,
+spring,,,
 ,,,
 15-20,,,AGE
-21-25,,,AGE
-26-30,,,AGE
-31-35,,,AGE
-36-40,,,AGE
-41-45,,,AGE
-46-50,,,AGE
+21-25,,,
+26-30,,,
+31-35,,,
+36-40,,,
+41-45,,,
+46-50,,,
 ,,,
 footwear,FOOTWEAR,,ITEMS
-boots,FOOTWEAR,,ITEMS
-heels,FOOTWEAR,,ITEMS
-sandals,FOOTWEAR,,ITEMS
-laceup flats/tie up flats,FOOTWEAR,,ITEMS
-bellies,FOOTWEAR,,ITEMS
-flip flops,FOOTWEAR,,ITEMS
-sneakers,FOOTWEAR,,ITEMS
-loafers,FOOTWEAR,,ITEMS
-blockheels,FOOTWEAR,,ITEMS
-stilettos,FOOTWEAR,,ITEMS
-flats,FOOTWEAR,,ITEMS
-pumps,FOOTWEAR,,ITEMS
-wedge,FOOTWEAR,,ITEMS
-brogues,FOOTWEAR,,ITEMS
-sports shoes,FOOTWEAR,,ITEMS
-shoes,FOOTWEAR,,ITEMS
-moccasins,FOOTWEAR,,ITEMS
-,,1,ITEMS
-jeans,JEANS,1,ITEMS
-boyfriend jeans,JEANS,1,ITEMS
-distressed jeans,JEANS,1,ITEMS
-skinny jeans,JEANS,2,ITEMS
-joggers,JEANS,2,ITEMS
-high rise jeans,JEANS,3,ITEMS
-capri,JEANS,2,ITEMS
-tights,JEANS,2,ITEMS
-leggings,JEANS,1,ITEMS
-ripped jeans,JEANS,2,ITEMS
-flared jeans,JEANS,2,ITEMS
-jeggings,JEANS,3,ITEMS
-mom jeans,JEANS,2,ITEMS
-straight legged jeans,JEANS,,ITEMS
-,,1,ITEMS
-pants,PANTS,3,ITEMS
-dress pants,PANTS,1,ITEMS
-palazzo pants,PANTS,1,ITEMS
-wide leg pants,PANTS,2,ITEMS
-corduroy pants,PANTS,1,ITEMS
-cropped pants,PANTS,2,ITEMS
-culottes,PANTS,3,ITEMS
-trousers,PANTS,3,ITEMS
-jogger pants,PANTS,3,ITEMS
-track pants,PANTS,2,ITEMS
-chino,PANTS,,ITEMS
-,,1,ITEMS
-bags,BAGS,3,ITEMS
-travel bag,BAGS,3,ITEMS
-duffle bag,BAGS,2,ITEMS
-backpacks,BAGS,2,ITEMS
-Purse,BAGS,1,ITEMS
-handbag,BAGS,1,ITEMS
-sling,BAGS,1,ITEMS
-crossbody,BAGS,2,ITEMS
-tote,BAGS,2,ITEMS
-clutch,BAGS,,ITEMS
-,,,ITEMS
-,,1,ITEMS
-dress,DRESS,3,ITEMS
-jumpsuit,DRESS,2,ITEMS
-maxi dress,DRESS,3,ITEMS
-romper,DRESS,1,ITEMS
-shirtdress,DRESS,1,ITEMS
-sleeveless dress,DRESS,2,ITEMS
-slip dress,DRESS,1,ITEMS
-lbd,DRESS,2,ITEMS
-tunic,DRESS,2,ITEMS
-wrap dresses,DRESS,2,ITEMS
-midi,DRESS,1,ITEMS
-skaterdress,DRESS,2,ITEMS
-slipdress,DRESS,3,ITEMS
-dungaree,DRESS,3,ITEMS
-playsuit,DRESS,,ITEMS
-,,,ITEMS
-,,1,ITEMS
-skirt,SKIRT,1,ITEMS
-pencil skirt,SKIRT,2,ITEMS
-maxiskirt,SKIRT,,ITEMS
-a line skirt,SKIRT,1,ITEMS
-miniskirt,SKIRT,,ITEMS
-,,1,ITEMS
-top,TOP,1,ITEMS
-tshirt,TOP,1,ITEMS
-crop top,TOP,3,ITEMS
-button down shirt,TOP,2,ITEMS
-blouse,TOP,1,ITEMS
-cami,TOP,3,ITEMS
-shirt,TOP,2,ITEMS
-tubetop,TOP,2,ITEMS
-maxitop,TOP,3,ITEMS
-bralette,TOP,2,ITEMS
-tank top,TOP,,ITEMS
-,,1,ITEMS
-jacket,JACKET,2,ITEMS
-moto jacket,JACKET,3,ITEMS
-leather jackets,JACKET,,ITEMS
-,,1,ITEMS
-coat,COAT,2,ITEMS
-trench coat,COAT,3,ITEMS
-duster coat,COAT,,ITEMS
-,,1,ITEMS
-shrug,SHRUG,2,ITEMS
-kimonos,SHRUG,3,ITEMS
-cape,SHRUG,,ITEMS
-,,1,ITEMS
-accessories,ACCESSORIES,3,ITEMS
-beanie,ACCESSORIES,2,ITEMS
-scarves,ACCESSORIES,1,ITEMS
-belt,ACCESSORIES,2,ITEMS
-sunglasses,ACCESSORIES,,ITEMS
-,,1,ITEMS
-shorts,SHORTS,,ITEMS
-,,1,ITEMS
-sweater,SWEATER,1,ITEMS
-oversized sweater,SWEATER,3,ITEMS
-hoodie,SWEATER,1,ITEMS
-turtleneck,SWEATER,2,ITEMS
-cowl,SWEATER,2,ITEMS
-cardigan,SWEATER,3,ITEMS
+boots,,,
+heels,,,
+sandals,,,
+laceup flats/tie up flats,,,
+bellies,,,
+flip flops,,,
+sneakers,,,
+loafers,,,
+blockheels,,,
+stilettos,,,
+flats,,,
+pumps,,,
+wedge,,,
+brogues,,,
+sports shoes,,,
+shoes,,,
+moccasins,,,
+,,1,
+jeans,JEANS,1,
+boyfriend jeans,JEANS,1,
+distressed jeans,JEANS,1,
+skinny jeans,JEANS,2,
+joggers,JEANS,2,
+high rise jeans,JEANS,3,
+capri,JEANS,2,
+tights,JEANS,2,
+leggings,JEANS,1,
+ripped jeans,JEANS,2,
+flared jeans,JEANS,2,
+jeggings,JEANS,3,
+mom jeans,JEANS,2,
+straight legged jeans,JEANS,,
+,,1,
+pants,PANTS,3,
+dress pants,PANTS,1,
+palazzo pants,PANTS,1,
+wide leg pants,PANTS,2,
+corduroy pants,PANTS,1,
+cropped pants,PANTS,2,
+culottes,PANTS,3,
+trousers,PANTS,3,
+jogger pants,PANTS,3,
+track pants,PANTS,2,
+chino,PANTS,,
+,,1,
+bags,BAGS,3,
+travel bag,BAGS,3,
+duffle bag,BAGS,2,
+backpacks,BAGS,2,
+Purse,BAGS,1,
+handbag,BAGS,1,
+sling,BAGS,1,
+crossbody,BAGS,2,
+tote,BAGS,2,
+clutch,BAGS,,
+,,,
+,,1,
+dress,DRESS,3,
+jumpsuit,DRESS,2,
+maxi dress,DRESS,3,
+romper,DRESS,1,
+shirtdress,DRESS,1,
+sleeveless dress,DRESS,2,
+slip dress,DRESS,1,
+lbd,DRESS,2,
+tunic,DRESS,2,
+wrap dresses,DRESS,2,
+midi,DRESS,1,
+skaterdress,DRESS,2,
+slipdress,DRESS,3,
+dungaree,DRESS,3,
+playsuit,DRESS,,
+,,,
+,,1,
+skirt,SKIRT,1,
+pencil skirt,SKIRT,2,
+maxiskirt,SKIRT,,
+a line skirt,SKIRT,1,
+miniskirt,SKIRT,,
+,,1,
+top,TOP,1,
+tshirt,TOP,1,
+crop top,TOP,3,
+button down shirt,TOP,2,
+blouse,TOP,1,
+cami,TOP,3,
+shirt,TOP,2,
+tubetop,TOP,2,
+maxitop,TOP,3,
+bralette,TOP,2,
+tank top,TOP,,
+,,1,
+jacket,JACKET,2,
+moto jacket,JACKET,3,
+leather jackets,JACKET,,
+,,1,
+coat,COAT,2,
+trench coat,COAT,3,
+duster coat,COAT,,
+,,1,
+shrug,SHRUG,2,
+kimonos,SHRUG,3,
+cape,SHRUG,,
+,,1,
+accessories,ACCESSORIES,3,
+beanie,ACCESSORIES,2,
+scarves,ACCESSORIES,1,
+belt,ACCESSORIES,2,
+sunglasses,ACCESSORIES,,
+,,1,
+shorts,SHORTS,,
+,,1,
+sweater,SWEATER,1,
+oversized sweater,SWEATER,3,
+hoodie,SWEATER,1,
+turtleneck,SWEATER,2,
+cowl,SWEATER,2,
+cardigan,SWEATER,3,
 sweatshirt,,,
 ,,,
 black wardrobe,,,TRENDS

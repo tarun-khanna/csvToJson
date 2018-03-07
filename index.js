@@ -3,6 +3,9 @@ var app = express();
 var categorised = [];
 var tags = [];
 var uncategorised = [];
+var header = [];
+var prevParentTag;
+var prevCategory;
 app.get("/", function(req, res) {
   const csvFilePath = "./flow.csv";
   const csv = require("csvtojson");
@@ -10,16 +13,24 @@ app.get("/", function(req, res) {
     .fromFile(csvFilePath)
     .on("json", jsonObj => {
       if (jsonObj.tagName !== "") {
+        if (jsonObj.category == "") jsonObj.category = prevCategory;
+        else jsonObj.category = jsonObj.category.toLowerCase();
+
+        if (jsonObj.parentTag == "") {
+          if (prevCategory !== jsonObj.category) jsonObj.parentTag = "";
+          else jsonObj.parentTag = prevParentTag;
+        } else jsonObj.parentTag = jsonObj.parentTag.toLowerCase();
+
         jsonObj.tagName = jsonObj.tagName.toLowerCase();
-        jsonObj.parentTag = jsonObj.parentTag.toLowerCase();
-        jsonObj.category = jsonObj.category.toLowerCase();
         jsonObj.priority = Number(jsonObj.priority);
+
+        prevCategory = jsonObj.category;
+        prevParentTag = jsonObj.parentTag;
         tags.push(jsonObj);
       }
     })
     .on("done", error => {
       console.log("end........................................");
-      console.log(tags);
       res.send(tags);
     });
 });
