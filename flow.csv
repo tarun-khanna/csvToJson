@@ -1,0 +1,291 @@
+tagName,parentTag,priority,category
+Broad Shoulders,INVERTED TRIANGLE,,BODY TYPE
+Narrow Hips,INVERTED TRIANGLE,,BODY TYPE
+Straight Or Slightly Defined Waist ,INVERTED TRIANGLE,,BODY TYPE
+,,,BODY TYPE
+Narrow Shoulders,PEAR SHAPED,,BODY TYPE
+Smaller Bust,PEAR SHAPED,,BODY TYPE
+Heavier Thighs,PEAR SHAPED,,BODY TYPE
+Well-defined Waist,PEAR SHAPED,,BODY TYPE
+,,,BODY TYPE
+Broad Shoulders,APPLE SHAPED,,BODY TYPE
+Less-defined Waist,APPLE SHAPED,,BODY TYPE
+Narrow Hips,APPLE SHAPED,,BODY TYPE
+,,,BODY TYPE
+Proportionately Balanced Shoulders & Hips,HOUR GLASS,,BODY TYPE
+Well-defined Narrow Waist ,HOUR GLASS,,BODY TYPE
+Full Bust,HOUR GLASS,,BODY TYPE
+Rounded Bottom,HOUR GLASS,,BODY TYPE
+,,,BODY TYPE
+Undefined Waist,RECTANGLE,,BODY TYPE
+Straight Hips,RECTANGLE,,BODY TYPE
+Well Aligned Shoulders & Hips,RECTANGLE,,BODY TYPE
+Small To Average Bust,RECTANGLE,,BODY TYPE
+,,,BODY TYPE
+Narrow Hips ,OVAL,,BODY TYPE
+Wide Waist,OVAL,,BODY TYPE
+Slender Legs,OVAL,,BODY TYPE
+Large Bust,OVAL,,BODY TYPE
+,,,BODY TYPE
+Broad Hips,DIAMOND,,BODY TYPE
+Undefined & Wide Waist,DIAMOND,,BODY TYPE
+Heavy Thighs,DIAMOND,,BODY TYPE
+Slender Arms,DIAMOND,,BODY TYPE
+Slender Calves,DIAMOND,,BODY TYPE
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+vacation,,,OCCASION
+dayout / casual,,,OCCASION
+college,,,OCCASION
+nightout,,,OCCASION
+office,,,OCCASION
+festive season,,,OCCASION
+gym,,,OCCASION
+winter,,,OCCASION
+summer,,,OCCASION
+spring,,,OCCASION
+,,,
+15-20,,,AGE
+21-25,,,AGE
+26-30,,,AGE
+31-35,,,AGE
+36-40,,,AGE
+41-45,,,AGE
+46-50,,,AGE
+,,,
+footwear,FOOTWEAR,,ITEMS
+boots,FOOTWEAR,,ITEMS
+heels,FOOTWEAR,,ITEMS
+sandals,FOOTWEAR,,ITEMS
+laceup flats/tie up flats,FOOTWEAR,,ITEMS
+bellies,FOOTWEAR,,ITEMS
+flip flops,FOOTWEAR,,ITEMS
+sneakers,FOOTWEAR,,ITEMS
+loafers,FOOTWEAR,,ITEMS
+blockheels,FOOTWEAR,,ITEMS
+stilettos,FOOTWEAR,,ITEMS
+flats,FOOTWEAR,,ITEMS
+pumps,FOOTWEAR,,ITEMS
+wedge,FOOTWEAR,,ITEMS
+brogues,FOOTWEAR,,ITEMS
+sports shoes,FOOTWEAR,,ITEMS
+shoes,FOOTWEAR,,ITEMS
+moccasins,FOOTWEAR,,ITEMS
+,,1,ITEMS
+jeans,JEANS,1,ITEMS
+boyfriend jeans,JEANS,1,ITEMS
+distressed jeans,JEANS,1,ITEMS
+skinny jeans,JEANS,2,ITEMS
+joggers,JEANS,2,ITEMS
+high rise jeans,JEANS,3,ITEMS
+capri,JEANS,2,ITEMS
+tights,JEANS,2,ITEMS
+leggings,JEANS,1,ITEMS
+ripped jeans,JEANS,2,ITEMS
+flared jeans,JEANS,2,ITEMS
+jeggings,JEANS,3,ITEMS
+mom jeans,JEANS,2,ITEMS
+straight legged jeans,JEANS,,ITEMS
+,,1,ITEMS
+pants,PANTS,3,ITEMS
+dress pants,PANTS,1,ITEMS
+palazzo pants,PANTS,1,ITEMS
+wide leg pants,PANTS,2,ITEMS
+corduroy pants,PANTS,1,ITEMS
+cropped pants,PANTS,2,ITEMS
+culottes,PANTS,3,ITEMS
+trousers,PANTS,3,ITEMS
+jogger pants,PANTS,3,ITEMS
+track pants,PANTS,2,ITEMS
+chino,PANTS,,ITEMS
+,,1,ITEMS
+bags,BAGS,3,ITEMS
+travel bag,BAGS,3,ITEMS
+duffle bag,BAGS,2,ITEMS
+backpacks,BAGS,2,ITEMS
+Purse,BAGS,1,ITEMS
+handbag,BAGS,1,ITEMS
+sling,BAGS,1,ITEMS
+crossbody,BAGS,2,ITEMS
+tote,BAGS,2,ITEMS
+clutch,BAGS,,ITEMS
+,,,ITEMS
+,,1,ITEMS
+dress,DRESS,3,ITEMS
+jumpsuit,DRESS,2,ITEMS
+maxi dress,DRESS,3,ITEMS
+romper,DRESS,1,ITEMS
+shirtdress,DRESS,1,ITEMS
+sleeveless dress,DRESS,2,ITEMS
+slip dress,DRESS,1,ITEMS
+lbd,DRESS,2,ITEMS
+tunic,DRESS,2,ITEMS
+wrap dresses,DRESS,2,ITEMS
+midi,DRESS,1,ITEMS
+skaterdress,DRESS,2,ITEMS
+slipdress,DRESS,3,ITEMS
+dungaree,DRESS,3,ITEMS
+playsuit,DRESS,,ITEMS
+,,,ITEMS
+,,1,ITEMS
+skirt,SKIRT,1,ITEMS
+pencil skirt,SKIRT,2,ITEMS
+maxiskirt,SKIRT,,ITEMS
+a line skirt,SKIRT,1,ITEMS
+miniskirt,SKIRT,,ITEMS
+,,1,ITEMS
+top,TOP,1,ITEMS
+tshirt,TOP,1,ITEMS
+crop top,TOP,3,ITEMS
+button down shirt,TOP,2,ITEMS
+blouse,TOP,1,ITEMS
+cami,TOP,3,ITEMS
+shirt,TOP,2,ITEMS
+tubetop,TOP,2,ITEMS
+maxitop,TOP,3,ITEMS
+bralette,TOP,2,ITEMS
+tank top,TOP,,ITEMS
+,,1,ITEMS
+jacket,JACKET,2,ITEMS
+moto jacket,JACKET,3,ITEMS
+leather jackets,JACKET,,ITEMS
+,,1,ITEMS
+coat,COAT,2,ITEMS
+trench coat,COAT,3,ITEMS
+duster coat,COAT,,ITEMS
+,,1,ITEMS
+shrug,SHRUG,2,ITEMS
+kimonos,SHRUG,3,ITEMS
+cape,SHRUG,,ITEMS
+,,1,ITEMS
+accessories,ACCESSORIES,3,ITEMS
+beanie,ACCESSORIES,2,ITEMS
+scarves,ACCESSORIES,1,ITEMS
+belt,ACCESSORIES,2,ITEMS
+sunglasses,ACCESSORIES,,ITEMS
+,,1,ITEMS
+shorts,SHORTS,,ITEMS
+,,1,ITEMS
+sweater,SWEATER,1,ITEMS
+oversized sweater,SWEATER,3,ITEMS
+hoodie,SWEATER,1,ITEMS
+turtleneck,SWEATER,2,ITEMS
+cowl,SWEATER,2,ITEMS
+cardigan,SWEATER,3,ITEMS
+sweatshirt,,,
+,,,
+black wardrobe,,,TRENDS
+capsule wardrobe,,,TRENDS
+chambray,,,TRENDS
+chiffon blouse,,,TRENDS
+corduroy,,,TRENDS
+earthy colors,,,TRENDS
+feminine menswear,,,TRENDS
+flowy shorts,,,TRENDS
+fringe,,,TRENDS
+laceup flats,,,TRENDS
+layering,,,TRENDS
+minimalist,,,TRENDS
+overalls,,,TRENDS
+patterned,,,TRENDS
+berets,,,TRENDS
+sock boots,,,TRENDS
+prints,,,TRENDS
+rompers,,,TRENDS
+striped,,,TRENDS
+oversized knits,,,TRENDS
+white blazer,,,TRENDS
+millenial pink,,,TRENDS
+bucket bags,,,TRENDS
+shoulder bags,,,TRENDS
+gingham pattern,,,TRENDS
+laced shoes,,,TRENDS
+cold shoulder,,,TRENDS
+denim,,,TRENDS
+bell sleeves,,,TRENDS
+patches,,,TRENDS
+metallic,,,TRENDS
+off shoulder,,,TRENDS
+lbd,,,TRENDS
+leather,,,TRENDS
+monochorme / solids,,,TRENDS
+graphics tees,,,TRENDS
+colourblock,,,TRENDS
+plaid,,,TRENDS
+peplum,,,TRENDS
+polka dots,,,TRENDS
+houndstooth,,,TRENDS
+distressed,,,TRENDS
+floral dress/top,,,TRENDS
+velvet,,,TRENDS
+fur,,,TRENDS
+crop top,,,TRENDS
+specks,,,TRENDS
+mesh,,,TRENDS
+sheer,,,TRENDS
+animalprint,,,TRENDS
+sequin,,,TRENDS
+cutout,,,TRENDS
+fishnet,,,TRENDS
+laceup,,,TRENDS
+crochet,,,TRENDS
+bellsleeves,,,TRENDS
+checkered,,,TRENDS
+kimono,,,TRENDS
+asymmetrical,,,TRENDS
+gingham,,,TRENDS
+highlow,,,TRENDS
+satin,,,TRENDS
+solid,,,TRENDS
+ruffles,,,TRENDS
+oneshoulder,,,TRENDS
+highwaisted,,,TRENDS
+quilted,,,TRENDS
+littleblackdress,,,TRENDS
+glitter,,,TRENDS
+oxford,,,TRENDS
+pleated,,,TRENDS
+booties,,,TRENDS
+carodaur,,,TRENDS
+ribbed,,,TRENDS
+backless,,,TRENDS
+knit,,,TRENDS
+cuff,,,TRENDS
+embellished,,,TRENDS
+pointedtoe,,,TRENDS
+pastel,,,TRENDS
+embroidered,,,TRENDS
+coords,,,TRENDS
+,,,
+white,,,COLOR
+black,,,COLOR
+grey,,,COLOR
+maroon,,,COLOR
+brown,,,COLOR
+beige,,,COLOR
+olive green,,,COLOR
+blue,,,COLOR
+yellow,,,COLOR
+orange,,,COLOR
+green,,,COLOR
+neon,,,COLOR
+multicolor,,,COLOR
+light,,,COLOR
+dark,,,COLOR
+,,,
+boho,,,APPEARANCE
+chic,,,APPEARANCE
+artsy,,,APPEARANCE
+sexy,,,APPEARANCE
+casual,,,APPEARANCE
+sophisticated,,,APPEARANCE
+tomboy,,,APPEARANCE
+rocker,,,APPEARANCE
+preppy,,,APPEARANCE
+sporty,,,APPEARANCE
+stylish,,,APPEARANCE
