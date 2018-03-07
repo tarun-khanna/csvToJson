@@ -1,9 +1,7 @@
 var express = require("express");
 var app = express();
-var categorised = [];
 var tags = [];
-var uncategorised = [];
-var header = [];
+
 var prevParentTag;
 var prevCategory;
 app.get("/", function(req, res) {
